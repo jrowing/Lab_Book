@@ -1,0 +1,1608 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.4.19)  18 MAY 2016 09:03
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/exam/exam.cls
+Document Class: exam 2015/05/07 Version 2.5 by Philip Hirschhorn
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\@extrawidth=\skip43
+\@rightmargin=\skip44
+\@extrahead=\skip45
+\@extrafoot=\skip46
+\run@exhd=\skip47
+\fp@exhd=\skip48
+\run@exft=\skip49
+\fp@exft=\skip50
+\covrun@exhd=\skip51
+\covfp@exhd=\skip52
+\covrun@exft=\skip53
+\covfp@exft=\skip54
+\c@num@coverpages=\count87
+\c@latest@ques=\count88
+\c@ques@end=\count89
+\c@last@object=\count90
+\c@incmp@ques=\count91
+\c@next@ques=\count92
+\c@next@page=\count93
+\c@tmp@hlfcntr=\count94
+\c@ifpos@cntr=\count95
+\c@question=\count96
+\c@partno=\count97
+\c@subpart=\count98
+\c@subsubpart=\count99
+\c@choice=\count100
+\c@numpoints=\count101
+\c@numbonuspoints=\count102
+\c@pointsof@thisquestion=\count103
+\c@bonuspointsof@thisquestion=\count104
+\c@numquestions=\count105
+\c@numparts=\count106
+\c@numsubparts=\count107
+\c@numsubsubparts=\count108
+\c@Curr@Page=\count109
+\c@@pagepoints=\count110
+\c@@pagebonuspoints=\count111
+\c@pageof@pagepoints=\count112
+\c@pageof@pagebonuspoints=\count113
+\c@latest@points=\count114
+\c@latest@bonuspoints=\count115
+\pageinfo@commands=\toks14
+\temp@toks=\toks15
+\pagepoint@commands=\toks16
+\point@toks=\toks17
+\c@ques@object=\count116
+\marginpointssep=\skip55
+\rightpointsmargin=\skip56
+\choice@toks=\toks18
+\answerlinelength=\skip57
+\answerskip=\skip58
+\answerclearance=\skip59
+\fillinlinelength=\skip60
+\linefillheight=\skip61
+\linefillthickness=\skip62
+\dottedlinefillheight=\skip63
+\gridsize=\skip64
+\gridlinewidth=\skip65
+\minboxheight=\skip66
+\c@@iterator=\count117
+\@cellwidth=\skip67
+\c@tbl@points=\count118
+\c@tbl@bonuspoints=\count119
+\c@num@cols=\count120
+\exam@box=\box26
+\saved@totalleftmargin=\dimen103
+\@sollistdepth=\count121
+\FrameRule=\dimen104
+\FrameSep=\dimen105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen106
+\pgfutil@tempdimb=\dimen107
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box27
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+))
+Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count122
+))
+\Gin@req@height=\dimen108
+\Gin@req@width=\dimen109
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks21
+\pgfkeys@temptoks=\toks22
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks23
+))
+\pgf@x=\dimen110
+\pgf@y=\dimen111
+\pgf@xa=\dimen112
+\pgf@ya=\dimen113
+\pgf@xb=\dimen114
+\pgf@yb=\dimen115
+\pgf@xc=\dimen116
+\pgf@yc=\dimen117
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count123
+\c@pgf@countb=\count124
+\c@pgf@countc=\count125
+\c@pgf@countd=\count126
+\t@pgf@toka=\toks24
+\t@pgf@tokb=\toks25
+\t@pgf@tokc=\toks26
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count127
+\pgfsyssoftpath@bigbuffer@items=\count128
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen118
+\pgfmath@count=\count129
+\pgfmath@box=\box28
+\pgfmath@toks=\toks27
+\pgfmath@stack@operand=\toks28
+\pgfmath@stack@operation=\toks29
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count130
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen119
+\pgf@picmaxx=\dimen120
+\pgf@picminy=\dimen121
+\pgf@picmaxy=\dimen122
+\pgf@pathminx=\dimen123
+\pgf@pathmaxx=\dimen124
+\pgf@pathminy=\dimen125
+\pgf@pathmaxy=\dimen126
+\pgf@xx=\dimen127
+\pgf@xy=\dimen128
+\pgf@yx=\dimen129
+\pgf@yy=\dimen130
+\pgf@zx=\dimen131
+\pgf@zy=\dimen132
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen133
+\pgf@path@lasty=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+\pgf@shorten@end@additional=\dimen135
+\pgf@shorten@start@additional=\dimen136
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+\pgfpic=\box29
+\pgf@hbox=\box30
+\pgf@layerbox@main=\box31
+\pgf@picture@serial@count=\count131
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+\pgflinewidth=\dimen137
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+\pgf@pt@x=\dimen138
+\pgf@pt@y=\dimen139
+\pgf@pt@temp=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+\pgfarrowsep=\dimen141
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen142
+\pgf@sys@shading@range@num=\count132
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+\pgfexternal@startupbox=\box32
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
+\pgfnodeparttextbox=\box33
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen143
+\pgf@nodesepend=\dimen144
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen145
+\pgffor@skip=\dimen146
+\pgffor@stack=\toks30
+\pgffor@toks=\toks31
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
+\pgf@plot@mark@count=\count133
+\pgfplotmarksize=\dimen147
+)
+\tikz@lastx=\dimen148
+\tikz@lasty=\dimen149
+\tikz@lastxsaved=\dimen150
+\tikz@lastysaved=\dimen151
+\tikzleveldistance=\dimen152
+\tikzsiblingdistance=\dimen153
+\tikz@figbox=\box34
+\tikz@figbox@bg=\box35
+\tikz@tempbox=\box36
+\tikz@tempbox@bg=\box37
+\tikztreelevel=\count134
+\tikznumberofchildren=\count135
+\tikznumberofcurrentchild=\count136
+\tikz@fig@count=\count137
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count138
+\pgfmatrixcurrentcolumn=\count139
+\pgf@matrix@numberofcolumns=\count140
+)
+\tikz@expandcount=\count141
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2015/06/15 v0.4y Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count142
+\calc@Bcount=\count143
+\calc@Adimen=\dimen154
+\calc@Bdimen=\dimen155
+\calc@Askip=\skip68
+\calc@Bskip=\skip69
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count144
+\calc@Cskip=\skip70
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/04/20 v2.0e eso-pic (RN)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)))
+\AM@pagewidth=\dimen156
+\AM@pageheight=\dimen157
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2015/06/15 v0.4y Pdfpages driver for pdfTeX (AM)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+))
+\AM@pagebox=\box38
+\AM@toc@title=\toks32
+\c@AM@survey=\count145
+\AM@templatesizebox=\box39
+) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count146
+\scratchdimen=\dimen158
+\scratchbox=\box40
+\nofMPsegments=\count147
+\nofMParguments=\count148
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count149
+\MPscratchDim=\dimen159
+\MPnumerator=\count150
+\makeMPintoPDFobject=\count151
+\everyMPtoPDFconversion=\toks34
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box41
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 33.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 39--40
+[][] 
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+pdfTeX warning: pdflatex (file ./Eduqas-A-level-Physics-lab-book.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<Eduqas-A-level-Physics-lab-book.pdf, id=12, 597.50627pt x 845.0471pt>
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+
+<use Eduqas-A-level-Physics-lab-book.pdf>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf used on input line
+ 47.
+(pdftex.def)             Requested size: 597.5048pt x 845.04504pt.
+
+
+pdfTeX warning: pdflatex (file ./Eduqas-A-level-Physics-lab-book.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+<use Eduqas-A-level-Physics-lab-book.pdf>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf used on input line
+ 47.
+(pdftex.def)             Requested size: 597.5048pt x 845.04504pt.
+
+
+pdfTeX warning: pdflatex (file ./Eduqas-A-level-Physics-lab-book.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./Eduqas-A-level-Physics-lab-book.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<Eduqas-A-level-Physics-lab-book.pdf, id=15, page=2, 597.55246pt x 845.07718pt>
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+<use Eduqas-A-level-Physics-lab-book.pdf, page 2>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page2 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+
+<use Eduqas-A-level-Physics-lab-book.pdf, page 2>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page2 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 562.1644pt x 795.0303pt.
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+
+<use Eduqas-A-level-Physics-lab-book.pdf, page 2>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page2 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 562.1644pt x 795.0303pt.
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+
+<use Eduqas-A-level-Physics-lab-book.pdf, page 2>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page2 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 562.1644pt x 795.0303pt.
+
+
+pdfTeX warning: pdflatex (file ./Eduqas-A-level-Physics-lab-book.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<Eduqas-A-level-Physics-lab-book.pdf, id=16, page=3, 597.55246pt x 845.07718pt>
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+<use Eduqas-A-level-Physics-lab-book.pdf, page 3>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page3 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 562.1644pt x 795.0303pt.
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+
+<use Eduqas-A-level-Physics-lab-book.pdf, page 3>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page3 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 562.1644pt x 795.0303pt.
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+
+<use Eduqas-A-level-Physics-lab-book.pdf, page 2>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page2 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 562.1644pt x 795.0303pt.
+ [2 <./Eduqas-A-level-Physics-lab-book.pdf, page is rotated 270 degrees>]
+
+pdfTeX warning: pdflatex (file ./Eduqas-A-level-Physics-lab-book.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<Eduqas-A-level-Physics-lab-book.pdf, id=47, page=4, 597.55246pt x 845.07718pt>
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+<use Eduqas-A-level-Physics-lab-book.pdf, page 4>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page4 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 562.1644pt x 795.0303pt.
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+
+<use Eduqas-A-level-Physics-lab-book.pdf, page 4>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page4 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 562.1644pt x 795.0303pt.
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+
+<use Eduqas-A-level-Physics-lab-book.pdf, page 3>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page3 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 562.1644pt x 795.0303pt.
+ [3 <./Eduqas-A-level-Physics-lab-book.pdf, page is rotated 270 degrees>]
+
+pdfTeX warning: pdflatex (file ./Eduqas-A-level-Physics-lab-book.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<Eduqas-A-level-Physics-lab-book.pdf, id=60, page=5, 597.19112pt x 845.19763pt>
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+<use Eduqas-A-level-Physics-lab-book.pdf, page 5>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page5 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 561.82446pt x 795.14362pt.
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+
+<use Eduqas-A-level-Physics-lab-book.pdf, page 5>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page5 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 561.82446pt x 795.14362pt.
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+
+<use Eduqas-A-level-Physics-lab-book.pdf, page 4>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page4 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 562.1644pt x 795.0303pt.
+ [4 <./Eduqas-A-level-Physics-lab-book.pdf>]
+
+pdfTeX warning: pdflatex (file ./Eduqas-A-level-Physics-lab-book.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<Eduqas-A-level-Physics-lab-book.pdf, id=80, page=6, 597.19112pt x 845.19763pt>
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+<use Eduqas-A-level-Physics-lab-book.pdf, page 6>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page6 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 561.82446pt x 795.14362pt.
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+
+<use Eduqas-A-level-Physics-lab-book.pdf, page 6>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page6 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 561.82446pt x 795.14362pt.
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+
+<use Eduqas-A-level-Physics-lab-book.pdf, page 5>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page5 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 561.82446pt x 795.14362pt.
+ [5 <./Eduqas-A-level-Physics-lab-book.pdf>]
+
+pdfTeX warning: pdflatex (file ./Eduqas-A-level-Physics-lab-book.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<Eduqas-A-level-Physics-lab-book.pdf, id=125, page=7, 597.19112pt x 845.19763pt
+>
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+ <use Eduqas-A-level-Physics-lab-book.pdf, page 7>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page7 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 561.82446pt x 795.14362pt.
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+
+<use Eduqas-A-level-Physics-lab-book.pdf, page 7>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page7 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 561.82446pt x 795.14362pt.
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+
+<use Eduqas-A-level-Physics-lab-book.pdf, page 6>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page6 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 561.82446pt x 795.14362pt.
+ [6 <./Eduqas-A-level-Physics-lab-book.pdf>]
+
+pdfTeX warning: pdflatex (file ./Eduqas-A-level-Physics-lab-book.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<Eduqas-A-level-Physics-lab-book.pdf, id=151, page=8, 597.19112pt x 845.19763pt
+>
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+ <use Eduqas-A-level-Physics-lab-book.pdf, page 8>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page8 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 561.82446pt x 795.14362pt.
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+
+<use Eduqas-A-level-Physics-lab-book.pdf, page 8>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page8 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 561.82446pt x 795.14362pt.
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+
+<use Eduqas-A-level-Physics-lab-book.pdf, page 7>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page7 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 561.82446pt x 795.14362pt.
+ [7 <./Eduqas-A-level-Physics-lab-book.pdf>]
+
+pdfTeX warning: pdflatex (file ./Eduqas-A-level-Physics-lab-book.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<Eduqas-A-level-Physics-lab-book.pdf, id=164, page=9, 597.19112pt x 845.19763pt
+>
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+ <use Eduqas-A-level-Physics-lab-book.pdf, page 9>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page9 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 561.82446pt x 795.14362pt.
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+
+<use Eduqas-A-level-Physics-lab-book.pdf, page 9>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page9 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 561.82446pt x 795.14362pt.
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+
+<use Eduqas-A-level-Physics-lab-book.pdf, page 8>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page8 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 561.82446pt x 795.14362pt.
+ [8 <./Eduqas-A-level-Physics-lab-book.pdf>]
+
+pdfTeX warning: pdflatex (file ./Eduqas-A-level-Physics-lab-book.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<Eduqas-A-level-Physics-lab-book.pdf, id=173, page=10, 597.19112pt x 845.19763p
+t>
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+ <use Eduqas-A-level-Physics-lab-book.pdf, page 10>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page10 used on in
+put line 47.
+(pdftex.def)             Requested size: 561.82446pt x 795.14362pt.
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+
+<use Eduqas-A-level-Physics-lab-book.pdf, page 10>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page10 used on in
+put line 47.
+(pdftex.def)             Requested size: 561.82446pt x 795.14362pt.
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+
+<use Eduqas-A-level-Physics-lab-book.pdf, page 9>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page9 used on inp
+ut line 47.
+(pdftex.def)             Requested size: 561.82446pt x 795.14362pt.
+ [9 <./Eduqas-A-level-Physics-lab-book.pdf>]
+
+pdfTeX warning: pdflatex (file ./Eduqas-A-level-Physics-lab-book.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<Eduqas-A-level-Physics-lab-book.pdf, id=190, page=11, 597.19112pt x 845.19763p
+t>
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+ <use Eduqas-A-level-Physics-lab-book.pdf, page 11>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page11 used on in
+put line 47.
+(pdftex.def)             Requested size: 561.82446pt x 795.14362pt.
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+
+<use Eduqas-A-level-Physics-lab-book.pdf, page 11>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page11 used on in
+put line 47.
+(pdftex.def)             Requested size: 561.82446pt x 795.14362pt.
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+
+<use Eduqas-A-level-Physics-lab-book.pdf, page 10>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page10 used on in
+put line 47.
+(pdftex.def)             Requested size: 561.82446pt x 795.14362pt.
+ [10 <./Eduqas-A-level-Physics-lab-book.pdf>]
+File: Eduqas-A-level-Physics-lab-book.pdf Graphic file (type pdf)
+ <use Eduqas-A-level-Physics-lab-book.pdf, page 11>
+Package pdftex.def Info: Eduqas-A-level-Physics-lab-book.pdf, page11 used on in
+put line 47.
+(pdftex.def)             Requested size: 561.82446pt x 795.14362pt.
+ [11 <./Eduqas-A-level-Physics-lab-book.pdf>] <str.pdf, id=258, 844.83629pt x 5
+97.432pt>
+File: str.pdf Graphic file (type pdf)
+
+<use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 50.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 50.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+ <str.pdf, id=261, page=1, 844.83629pt x 597.432pt>
+File: str.pdf Graphic file (type pdf)
+
+<use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 50.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 50.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 50.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+
+<use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 50.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 50.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+ [12 <./str.pdf>]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [12]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [13]
+Overfull \hbox (19.04742pt too wide) in paragraph at lines 62--65
+[][] 
+ []
+
+
+Overfull \vbox (1.4226pt too high) has occurred while \output is active []
+
+
+[14]
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 66.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 66.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 66.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 66.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+
+<use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 66.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 66.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 66.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+ [15]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [16]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [17]
+Overfull \hbox (19.04742pt too wide) in paragraph at lines 77--80
+[][] 
+ []
+
+
+Overfull \vbox (1.4226pt too high) has occurred while \output is active []
+
+
+[18]
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 81.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 81.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 81.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 81.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+
+<use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 81.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 81.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 81.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+ [19]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [20]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [21]
+Overfull \hbox (19.04742pt too wide) in paragraph at lines 92--94
+[][] 
+ []
+
+
+Overfull \vbox (1.4226pt too high) has occurred while \output is active []
+
+
+[22]
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 97.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 97.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 97.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 97.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+
+<use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 97.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 97.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 97.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+ [23]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [24]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [25]
+Overfull \hbox (19.04742pt too wide) in paragraph at lines 108--110
+[][] 
+ []
+
+
+Overfull \vbox (1.4226pt too high) has occurred while \output is active []
+
+
+[26]
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 113.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 113.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 113.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 113.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+
+<use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 113.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 113.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 113.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+ [27]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [28]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [29]
+Overfull \hbox (19.04742pt too wide) in paragraph at lines 124--126
+[][] 
+ []
+
+
+Overfull \vbox (1.4226pt too high) has occurred while \output is active []
+
+
+[30]
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 129.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 129.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 129.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 129.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+
+<use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 129.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 129.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 129.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+ [31]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [32]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [33]
+Overfull \hbox (19.04742pt too wide) in paragraph at lines 140--142
+[][] 
+ []
+
+
+Overfull \vbox (1.4226pt too high) has occurred while \output is active []
+
+
+[34]
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 145.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 145.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 145.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 145.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+
+<use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 145.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 145.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 145.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+ [35]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [36]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [37]
+Overfull \hbox (19.04742pt too wide) in paragraph at lines 156--158
+[][] 
+ []
+
+
+Overfull \vbox (1.4226pt too high) has occurred while \output is active []
+
+
+[38]
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 161.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 161.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 161.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 161.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+
+<use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 161.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 161.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 161.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+ [39]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [40]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [41]
+Overfull \hbox (19.04742pt too wide) in paragraph at lines 172--174
+[][] 
+ []
+
+
+Overfull \vbox (1.4226pt too high) has occurred while \output is active []
+
+
+[42]
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 177.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 177.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 177.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 177.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+
+<use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 177.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 177.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 177.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+ [43]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [44]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [45]
+Overfull \hbox (19.04742pt too wide) in paragraph at lines 188--190
+[][] 
+ []
+
+
+Overfull \vbox (1.4226pt too high) has occurred while \output is active []
+
+
+[46]
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 193.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 193.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 193.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 193.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+
+<use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 193.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 193.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 193.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+ [47]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [48]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [49]
+Overfull \hbox (19.04742pt too wide) in paragraph at lines 204--206
+[][] 
+ []
+
+
+Overfull \vbox (1.4226pt too high) has occurred while \output is active []
+
+
+[50]
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 209.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 209.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 209.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 209.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+
+<use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 209.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 209.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 209.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+ [51]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [52]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [53]
+Overfull \hbox (19.04742pt too wide) in paragraph at lines 220--222
+[][] 
+ []
+
+
+Overfull \vbox (1.4226pt too high) has occurred while \output is active []
+
+
+[54]
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 225.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 225.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 225.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 225.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+
+<use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 225.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 225.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 225.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+ [55]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [56]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [57]
+Overfull \hbox (19.04742pt too wide) in paragraph at lines 236--238
+[][] 
+ []
+
+
+Overfull \vbox (1.4226pt too high) has occurred while \output is active []
+
+
+[58]
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 241.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 241.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 241.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 241.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+
+<use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 241.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 241.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 241.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+ [59]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [60]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [61]
+Overfull \hbox (19.04742pt too wide) in paragraph at lines 252--254
+[][] 
+ []
+
+
+Overfull \vbox (1.4226pt too high) has occurred while \output is active []
+
+
+[62]
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 257.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 257.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 257.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 257.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+
+<use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 257.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 257.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 257.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+ [63]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [64]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [65]
+Overfull \hbox (19.04742pt too wide) in paragraph at lines 268--270
+[][] 
+ []
+
+
+Overfull \vbox (1.4226pt too high) has occurred while \output is active []
+
+
+[66]
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 273.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 273.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 273.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 273.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+
+<use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 273.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 273.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 273.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+ [67]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [68]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [69]
+Overfull \hbox (19.04742pt too wide) in paragraph at lines 284--286
+[][] 
+ []
+
+
+Overfull \vbox (1.4226pt too high) has occurred while \output is active []
+
+
+[70]
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 289.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 289.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 289.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 289.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+
+<use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 289.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 289.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 289.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+ [71]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [72]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [73]
+Overfull \hbox (19.04742pt too wide) in paragraph at lines 300--302
+[][] 
+ []
+
+
+Overfull \vbox (1.4226pt too high) has occurred while \output is active []
+
+
+[74]
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 305.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf>
+Package pdftex.def Info: str.pdf used on input line 305.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 305.
+(pdftex.def)             Requested size: 844.83423pt x 597.43054pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 305.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+
+<use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 305.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 305.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+File: str.pdf Graphic file (type pdf)
+ <use str.pdf, page 1>
+Package pdftex.def Info: str.pdf, page1 used on input line 305.
+(pdftex.def)             Requested size: 795.74474pt x 562.71655pt.
+ [75]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [76]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+ [77]
+Overfull \hbox (19.04742pt too wide) in paragraph at lines 316--318
+[][] 
+ []
+
+
+Overfull \vbox (1.4226pt too high) has occurred while \output is active []
+
+
+[78]
+This exam contains 0 questions with 0 parts, 0 subparts, and 0 subsubparts.
+This exam has a total of 0 points.
+This exam has a total of 0 bonus points.
+(./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 13050 strings out of 493085
+ 257206 string characters out of 6136917
+ 372660 words of memory out of 5000000
+ 16300 multiletter control sequences out of 15000+600000
+ 7022 words of font info for 25 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,18n,54p,406b,427s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (79 pages, 1335821 bytes).
+PDF statistics:
+ 539 PDF objects out of 1000 (max. 8388607)
+ 308 compressed objects within 4 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 258 words of extra memory for PDF output out of 10000 (max. 10000000)
+
